@@ -3,10 +3,27 @@ big{
     margin-left: 20px;
 }
 ion-card{
-    margin-left: 170px;
-    width: 80%;
+    margin-left: 100px;
+    width: 40%;
+    float: left;
 }
 ion-card:hover {
     border: 1px solid #777;
-    width: 80%;
   }
+
+ion-list{
+    width: 40%;
+    float: right;
+    margin-right: 100px;
+    margin-top: 9px;
+  }
+ion-button{
+    width: 80%;
+    margin-bottom: 30px;
+}
+ion-list:hover {
+  border: 1px solid #777;
+}
+h2{
+margin-bottom: 10px;
+}
