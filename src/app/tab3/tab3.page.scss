@@ -1,29 +1,9 @@
-big{
-    font-size: 30px;
-    margin-left: 20px;
+ion-button {
+  width: 80%;
 }
-ion-card{
-    margin-left: 100px;
-    width: 40%;
-    float: left;
-}
-ion-card:hover {
-    border: 1px solid #777;
-  }
-
 ion-list{
-    width: 40%;
-    float: right;
-    margin-right: 100px;
-    margin-top: 9px;
-  }
-ion-button{
-    width: 80%;
-    margin-bottom: 30px;
+  min-height: 100px;
 }
-ion-list:hover {
-  border: 1px solid #777;
-}
-h2{
-margin-bottom: 10px;
+ion-contact{
+  border-radius: 50px;
 }
